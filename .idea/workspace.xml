@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fdb5ad30-e84f-4034-892a-e757800623fd" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="sql_store: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="sql_store: schema" type="76f4a085:MysqlImplModel$Schema" />
+        <item name="account: table" type="285a2a93:MysqlImplModel$Table" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="sql_store: schema" type="76f4a085:MysqlImplModel$Schema" />
+        <item name="users: table" type="285a2a93:MysqlImplModel$Table" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1tUHK422lIXRnhFoY6iBP82M6gY" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\IdeaProjects\jdbc\jdbc-01-demo\src\main\resources" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.kuang.lesson05" />
+      <recent name="com.kuang.lesson05.utils" />
+      <recent name="com.kuang.lesson03" />
+      <recent name="com.kuang.lesson02" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\IdeaProjects\jdbc\jdbc-01-demo\src\main\resources" />
+      <recent name="D:\IdeaProjects\jdbc\jdbc-01-demo\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.TestC3P0">
+    <configuration name="SQLInsert (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.kuang.lesson03.SQLInsert" />
+      <module name="jdbc-01-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kuang.lesson03.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestC3P0" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.kuang.lesson05.TestC3P0" />
+      <module name="jdbc-01-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kuang.lesson05.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestDBCP" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.kuang.lesson05.TestDBCP" />
+      <module name="jdbc-01-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kuang.lesson05.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestSelect (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.kuang.lesson03.TestSelect" />
+      <module name="jdbc-01-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kuang.lesson03.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestTransaction1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.kuang.lesson04.TestTransaction1" />
+      <module name="jdbc-01-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kuang.lesson04.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TestC3P0" />
+        <item itemvalue="Application.TestDBCP" />
+        <item itemvalue="Application.TestTransaction1" />
+        <item itemvalue="Application.SQLInsert (1)" />
+        <item itemvalue="Application.TestSelect (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="root:@localhost" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fdb5ad30-e84f-4034-892a-e757800623fd" name="Default Changelist" comment="" />
+      <created>1622816680953</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1622816680953</updated>
+      <workItem from="1622816682142" duration="2706000" />
+      <workItem from="1622875167384" duration="13398000" />
+      <workItem from="1622961265313" duration="116000" />
+      <workItem from="1622966237339" duration="610000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="340" y="106" key="#Project_Structure" timestamp="1622886472054">
+      <screen x="0" y="0" width="1493" height="893" />
+    </state>
+    <state x="340" y="106" key="#Project_Structure/0.0.1493.893@0.0.1493.893" timestamp="1622886472054" />
+    <state x="340" y="106" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1622891611657">
+      <screen x="0" y="0" width="1493" height="893" />
+    </state>
+    <state x="340" y="106" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1493.893@0.0.1493.893" timestamp="1622891611657" />
+    <state width="1450" height="236" key="GridCell.Tab.0.bottom" timestamp="1622902591846">
+      <screen x="0" y="0" width="1493" height="893" />
+    </state>
+    <state width="1450" height="236" key="GridCell.Tab.0.bottom/0.0.1493.893@0.0.1493.893" timestamp="1622902591846" />
+    <state width="1450" height="236" key="GridCell.Tab.0.center" timestamp="1622902591846">
+      <screen x="0" y="0" width="1493" height="893" />
+    </state>
+    <state width="1450" height="236" key="GridCell.Tab.0.center/0.0.1493.893@0.0.1493.893" timestamp="1622902591846" />
+    <state width="1450" height="236" key="GridCell.Tab.0.left" timestamp="1622902591846">
+      <screen x="0" y="0" width="1493" height="893" />
+    </state>
+    <state width="1450" height="236" key="GridCell.Tab.0.left/0.0.1493.893@0.0.1493.893" timestamp="1622902591846" />
+    <state width="1450" height="236" key="GridCell.Tab.0.right" timestamp="1622902591846">
+      <screen x="0" y="0" width="1493" height="893" />
+    </state>
+    <state width="1450" height="236" key="GridCell.Tab.0.right/0.0.1493.893@0.0.1493.893" timestamp="1622902591846" />
+    <state x="249" y="43" key="SettingsEditor" timestamp="1622900467371">
+      <screen x="0" y="0" width="1493" height="893" />
+    </state>
+    <state x="249" y="43" key="SettingsEditor/0.0.1493.893@0.0.1493.893" timestamp="1622900467371" />
+    <state x="607" y="194" key="com.intellij.database.view.ui.DbObjectDialog" timestamp="1622891505629">
+      <screen x="0" y="0" width="1493" height="893" />
+    </state>
+    <state x="607" y="194" key="com.intellij.database.view.ui.DbObjectDialog/0.0.1493.893@0.0.1493.893" timestamp="1622891505629" />
+    <state x="443" y="433" key="com.intellij.ide.util.TipDialog" timestamp="1622961266442">
+      <screen x="0" y="0" width="1493" height="893" />
+    </state>
+    <state x="443" y="433" key="com.intellij.ide.util.TipDialog/0.0.1493.893@0.0.1493.893" timestamp="1622961266442" />
+    <state x="135" y="142" key="new project wizard" timestamp="1622817134147">
+      <screen x="0" y="0" width="1493" height="893" />
+    </state>
+    <state x="135" y="142" key="new project wizard/0.0.1493.893@0.0.1493.893" timestamp="1622817134147" />
+  </component>
+</project>
