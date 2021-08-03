@@ -16,6 +16,7 @@ public class MyTest {
             System.out.println("shipper_id="+resultSet.getObject("shipper_id"));
             System.out.println("name="+resultSet.getObject("name"));
         }
+        //修改
         resultSet.close();
         statement.close();
         connection.close();
